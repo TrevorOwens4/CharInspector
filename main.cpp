@@ -1,4 +1,4 @@
-//Author:
+//Author:Trevor Owens
 #include<iostream>
 
 using namespace std;
